@@ -1,0 +1,20 @@
+.playerOption {
+    background: none;
+    border: none;
+}
+.playerOption img{
+    max-width: 8em;
+    max-height: 8em;
+}
+.gameArea {
+    text-align: center;
+}
+.gameArea_selectionsContainer {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    min-height: 20em;
+}
+.gameArea__selection {
+    max-width: 16em;
+}

@@ -1,6 +1,5 @@
 function Game(selector) {
     const application = document.querySelector(selector)
-    
     this.score
 
     this.init = function() {
